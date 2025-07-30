@@ -1,16 +1,22 @@
-## Hi there 👋
+# About me
 
-<!--
-**tristanv-ai/tristanv-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Artificial Intelligence Engineer, who wants to implement AI absolutely everywhere.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 👯 I’m looking to collaborate on any projects that cause an impact for good.
+- 🤔 I’m looking for help with creating and implementing AI solutions.
+- 💬 Ask me about anything AI related.
+- 📫 How to reach me:
+  1. [Linkedln](https://www.linkedin.com/in/tristan-villafane-it/)
+  2. [Email](villafane.trv@gmail.com)
+## Communication
+- English
+- Spanish
+  - Needs work but am improving
+- Mandarin
+  - Have been learning for a solid month now
+  
+  
+
