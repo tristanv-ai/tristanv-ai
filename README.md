@@ -11,12 +11,4 @@ I am an aspiring Artificial Intelligence Engineer, who wants to implement AI abs
 - 📫 How to reach me:
   1. [Linkedln](https://www.linkedin.com/in/tristan-villafane-it/)
   2. [Email](villafane.trv@gmail.com)
-## Communication
-- English
-- Spanish
-  - Needs work but am improving
-- Mandarin
-  - Have been learning for a solid month now
-  
-  
 
